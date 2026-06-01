@@ -10,7 +10,6 @@ __pycache__/
 .pytest_cache/
 
 # Datasets pesados (Evitar subir datos masivos)
-*.csv
 *.xlsx
 *.parquet
 
